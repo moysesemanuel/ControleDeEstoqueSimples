@@ -1,3 +1,5 @@
+
+![Controle de Estoque Simples](https://github.com/user-attachments/assets/eec0d34e-2d5d-4d66-969a-a7edc3204383)
 # Controle de Estoque Simples
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
